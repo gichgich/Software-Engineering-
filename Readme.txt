@@ -166,7 +166,7 @@ $cnt=1;
 		</script>
 		<!-- end: JavaScript Event Handlers for this page -->
 		<!-- end: CLIP-TWO JAVASCRIPTS -->
-		//removed first change line....
+		//removed first change line...
 
 	</body>
 </html>
